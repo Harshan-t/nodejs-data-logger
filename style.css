@@ -1,0 +1,32 @@
+body {
+    background-image: url(images/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-group>input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
