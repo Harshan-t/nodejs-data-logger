@@ -2,12 +2,12 @@ Project: Simple Registration Form
 
 Description: This project is a simple registration form built using Node.js, HTML, CSS, and Bootstrap. The form allows users to register by providing their username, email, and password. The registration data is then appended to a file named sample.txt on the server.
 
-# Files:
+Files:
     - server.js: The Node.js server file that creates an HTTP server and handles form submissions.
     - index.html: The HTML file that contains the registration form.
     - style.css: The CSS file that styles the registration form.
     
-# How to Run:
+How to Run:
     - Clone the repository to your local machine.
     - Open a terminal and navigate to the project directory.
     - Run node server.js to start the server.
